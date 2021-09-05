@@ -1,1 +1,1 @@
-from Gym_env.envs.my_env import twoarmedbandit
+from Gym_env.envs.myenv import twoarmedbandit
